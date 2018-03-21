@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 21 01:07:42 2018
 
-@author: fqy
+@author: T
 
 w0rd1ist.py: g3n3rat3 w0rd1ist fr0m d0cx fi135 :>
 """
